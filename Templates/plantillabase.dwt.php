@@ -1,13 +1,13 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/plantillabase.dwt.php" codeOutsideHTMLIsLocked="false" -->
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-<!-- InstanceBeginEditable name="doctitle" -->
+<!-- TemplateBeginEditable name="doctitle" -->
 <title>Documento sin título</title>
-<!-- InstanceEndEditable -->
-<!-- InstanceBeginEditable name="head" -->
-<!-- InstanceEndEditable -->
-<link href="css/estiloprincipal.css" rel="stylesheet" type="text/css" />
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../css/estiloprincipal.css" rel="stylesheet" type="text/css" />
 <?php include("includes/google.php"); ?>
 </head>
 
@@ -37,4 +37,4 @@
    <?php include("includes/pie.php"); ?></div>
   <!-- end .container --></div>
 </body>
-<!-- InstanceEnd --></html>
+</html>
