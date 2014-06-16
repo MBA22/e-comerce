@@ -2,6 +2,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/plantillabase.dwt.php" codeOutsideHTMLIsLocked="false" -->
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<script type="text/javascript" src="js/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="js/jquery.slidertron-1.1.js"></script>
 <!-- InstanceBeginEditable name="doctitle" -->
 <title>Documento sin título</title>
 <!-- InstanceEndEditable -->
@@ -24,8 +26,18 @@
   <?php include("includes/menu.php"); ?>
   <!-- InstanceEndEditable --></div>
   <div class="sidebar1"><!-- InstanceBeginEditable name="ContenidoIzq" -->
-  <h1>Servicios</h1>
-
+  <h1>Ropa para Dama</h1>
+  <h2>Pantalones de Vestir</h2>
+ <div id="slider">
+  <div class="viewer">
+    <div class="reel">
+      <div class="slide"><img src="images/img_paDama/pa1.jpg" alt="" height="260" width="160" /></div>
+      <div class="slide"><img src="images/img_paDama/pa2.jpg" alt="" height="260" width="160" /></div>
+      <div class="slide"><img src="images/img_paDama/pa3.jpg" alt="" height="262" width="160" /></div>
+      <div class="slide"><img src="images/img_paDama/pa4.jpg" alt="" height="260" width="160" /></div>
+    </div>
+  </div>
+</div>
   <p>AyZ-WEB est&aacute; formado por un programador freelance experimentado en dise&ntilde;o y   desarrollo <strong>Web</strong>. Gracias a mi formaci&oacute;n, experiencia y   contactos, puedo ofrecer un servicio integral de desarrollo personalizado.</p>
   <p>&iquest;Quiere saber c&oacute;mo soy y qui&eacute;n soy?, perm&iacute;tame presentarme a trav&eacute;s de mi   VideoCV en <a href="http://es.youtube.com/watch?v=jXDc31_-1IY" target="_blank">castellano</a> y en <a href="http://es.youtube.com/watch?v=61terWU89ws" target="_blank">ingl&eacute;s</a></p>
   <p>Actualmente trabajo como desarrollador freelance para empresas de dise&ntilde;o como <a href="http://www.grafital.com/" target="_blank">Grafital</a>, <a href="http://www.arixta.com/" target="_blank">Arixta</a>, <a href="http://www.artde3.com/" target="_blank">Artde3</a>, etc... aunque tambi&eacute;n   realizo desarrollos particulares para clientes como <a href="http://www.scmnetwork.es" target="_blank">scmnetwork.es</a>, <a href="http://www.primerframe.com" target="_blank">primerframe.com</a>, etc...</p>
