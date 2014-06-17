@@ -134,3 +134,36 @@ ul.nav a:hover, ul.nav a:active, ul.nav a:focus { /* esto cambia el color de fon
 	font-size: 1px;
 	line-height: 0px;
 }
+
+#slider
+{
+	position: relative;
+		width: 160px;
+
+	height: 260px;
+
+}
+
+	#slider .viewer
+	{
+		width: 160px;
+		height: 260px;
+		overflow: hidden;
+		margin: 0 auto;
+	}
+
+		#slider .viewer .reel
+		{
+			display: none;
+		height: 260px;
+		margin: 0 auto;
+		}
+
+		#slider .viewer .reel .slide
+		{
+			position: relative;
+			width: 160px;
+			height: 260px;
+			margin: 0 auto;
+		}
+		
