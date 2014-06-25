@@ -1,1 +1,0 @@
-<img src="../images/ayzweb.png" width="266" height="76" />
